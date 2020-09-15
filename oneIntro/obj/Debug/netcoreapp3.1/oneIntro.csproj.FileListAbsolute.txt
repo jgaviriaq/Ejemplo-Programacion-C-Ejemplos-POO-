@@ -1,0 +1,26 @@
+D:\CESDE\Programacion1\examplesPOO\oneIntro\bin\Debug\netcoreapp3.1\oneIntro.exe
+D:\CESDE\Programacion1\examplesPOO\oneIntro\bin\Debug\netcoreapp3.1\oneIntro.deps.json
+D:\CESDE\Programacion1\examplesPOO\oneIntro\bin\Debug\netcoreapp3.1\oneIntro.runtimeconfig.json
+D:\CESDE\Programacion1\examplesPOO\oneIntro\bin\Debug\netcoreapp3.1\oneIntro.runtimeconfig.dev.json
+D:\CESDE\Programacion1\examplesPOO\oneIntro\bin\Debug\netcoreapp3.1\oneIntro.dll
+D:\CESDE\Programacion1\examplesPOO\oneIntro\bin\Debug\netcoreapp3.1\oneIntro.pdb
+D:\CESDE\Programacion1\examplesPOO\oneIntro\obj\Debug\netcoreapp3.1\oneIntro.csprojAssemblyReference.cache
+D:\CESDE\Programacion1\examplesPOO\oneIntro\obj\Debug\netcoreapp3.1\oneIntro.AssemblyInfoInputs.cache
+D:\CESDE\Programacion1\examplesPOO\oneIntro\obj\Debug\netcoreapp3.1\oneIntro.AssemblyInfo.cs
+D:\CESDE\Programacion1\examplesPOO\oneIntro\obj\Debug\netcoreapp3.1\oneIntro.csproj.CoreCompileInputs.cache
+D:\CESDE\Programacion1\examplesPOO\oneIntro\obj\Debug\netcoreapp3.1\oneIntro.dll
+D:\CESDE\Programacion1\examplesPOO\oneIntro\obj\Debug\netcoreapp3.1\oneIntro.pdb
+D:\CESDE\Programacion1\examplesPOO\oneIntro\obj\Debug\netcoreapp3.1\oneIntro.genruntimeconfig.cache
+D:\CESDE\Lenguaje de Progrmación\examplesPOO\oneIntro\obj\Debug\netcoreapp3.1\oneIntro.csprojAssemblyReference.cache
+D:\CESDE\Lenguaje de Progrmación\examplesPOO\oneIntro\obj\Debug\netcoreapp3.1\oneIntro.AssemblyInfoInputs.cache
+D:\CESDE\Lenguaje de Progrmación\examplesPOO\oneIntro\obj\Debug\netcoreapp3.1\oneIntro.AssemblyInfo.cs
+D:\CESDE\Lenguaje de Progrmación\examplesPOO\oneIntro\obj\Debug\netcoreapp3.1\oneIntro.csproj.CoreCompileInputs.cache
+D:\CESDE\Lenguaje de Progrmación\examplesPOO\oneIntro\obj\Debug\netcoreapp3.1\oneIntro.dll
+D:\CESDE\Lenguaje de Progrmación\examplesPOO\oneIntro\obj\Debug\netcoreapp3.1\oneIntro.pdb
+D:\CESDE\Lenguaje de Progrmación\examplesPOO\oneIntro\bin\Debug\netcoreapp3.1\oneIntro.exe
+D:\CESDE\Lenguaje de Progrmación\examplesPOO\oneIntro\bin\Debug\netcoreapp3.1\oneIntro.deps.json
+D:\CESDE\Lenguaje de Progrmación\examplesPOO\oneIntro\bin\Debug\netcoreapp3.1\oneIntro.runtimeconfig.json
+D:\CESDE\Lenguaje de Progrmación\examplesPOO\oneIntro\bin\Debug\netcoreapp3.1\oneIntro.runtimeconfig.dev.json
+D:\CESDE\Lenguaje de Progrmación\examplesPOO\oneIntro\bin\Debug\netcoreapp3.1\oneIntro.dll
+D:\CESDE\Lenguaje de Progrmación\examplesPOO\oneIntro\bin\Debug\netcoreapp3.1\oneIntro.pdb
+D:\CESDE\Lenguaje de Progrmación\examplesPOO\oneIntro\obj\Debug\netcoreapp3.1\oneIntro.genruntimeconfig.cache
