@@ -1,0 +1,13 @@
+D:\CESDE\Lenguaje de Progrmación\examplesPOO\Ejercicio1\bin\Debug\netcoreapp3.1\Ejercicio1.exe
+D:\CESDE\Lenguaje de Progrmación\examplesPOO\Ejercicio1\bin\Debug\netcoreapp3.1\Ejercicio1.deps.json
+D:\CESDE\Lenguaje de Progrmación\examplesPOO\Ejercicio1\bin\Debug\netcoreapp3.1\Ejercicio1.runtimeconfig.json
+D:\CESDE\Lenguaje de Progrmación\examplesPOO\Ejercicio1\bin\Debug\netcoreapp3.1\Ejercicio1.runtimeconfig.dev.json
+D:\CESDE\Lenguaje de Progrmación\examplesPOO\Ejercicio1\bin\Debug\netcoreapp3.1\Ejercicio1.dll
+D:\CESDE\Lenguaje de Progrmación\examplesPOO\Ejercicio1\bin\Debug\netcoreapp3.1\Ejercicio1.pdb
+D:\CESDE\Lenguaje de Progrmación\examplesPOO\Ejercicio1\obj\Debug\netcoreapp3.1\Ejercicio1.csprojAssemblyReference.cache
+D:\CESDE\Lenguaje de Progrmación\examplesPOO\Ejercicio1\obj\Debug\netcoreapp3.1\Ejercicio1.AssemblyInfoInputs.cache
+D:\CESDE\Lenguaje de Progrmación\examplesPOO\Ejercicio1\obj\Debug\netcoreapp3.1\Ejercicio1.AssemblyInfo.cs
+D:\CESDE\Lenguaje de Progrmación\examplesPOO\Ejercicio1\obj\Debug\netcoreapp3.1\Ejercicio1.csproj.CoreCompileInputs.cache
+D:\CESDE\Lenguaje de Progrmación\examplesPOO\Ejercicio1\obj\Debug\netcoreapp3.1\Ejercicio1.dll
+D:\CESDE\Lenguaje de Progrmación\examplesPOO\Ejercicio1\obj\Debug\netcoreapp3.1\Ejercicio1.pdb
+D:\CESDE\Lenguaje de Progrmación\examplesPOO\Ejercicio1\obj\Debug\netcoreapp3.1\Ejercicio1.genruntimeconfig.cache
